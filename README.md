@@ -26,6 +26,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 jasmine.js is included in index.html and just open index.html
 test result would be shown at bottom.
 
+
 # Testing Area
 
 Four aspects of area are tested in corresponding test suites.
