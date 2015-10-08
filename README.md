@@ -21,6 +21,11 @@ In this project you are given a web-based application that reads RSS feeds. The 
 14. When complete - all of your tests should pass.
 
 
+# Running testing on application
+
+jasmine.js is included in index.html and just open index.html
+test result would be shown at bottom.
+
 # Testing Area
 
 Four aspects of area are tested in corresponding test suites.
